@@ -35,8 +35,9 @@ Every project can earn the same score. Pick the one you would enjoy building.
 
 ## 2. Rules
 
-- **Only HTML, CSS and JavaScript.** No React, Vue, jQuery, Bootstrap, Tailwind, or any other library or framework. Fonts and icon sets from a CDN are fine.
-- **It runs with Live Server.** No install step and no build step.
+- **Your own JavaScript.** No React, Vue, jQuery, or any other JavaScript library or framework. Everything your app does with data — fetching, building the page, search, saving — is JavaScript that you wrote.
+- **Tailwind or Bootstrap is allowed for styling.** Bootstrap's own script for components such as modals and dropdowns is allowed too. Fonts and icon sets from a CDN are also fine.
+- **It runs with Live Server.** No install step and no build step. This includes Tailwind and Bootstrap: load them from a CDN with a `<link>` or `<script>` tag, not with npm.
 - **The data comes from the API.** Do not type recipes, posts or products into your HTML or JavaScript.
 - **Your own repository.** Not a fork and not a pull request. See section 4.
 - **You can explain every line.** See section 7.

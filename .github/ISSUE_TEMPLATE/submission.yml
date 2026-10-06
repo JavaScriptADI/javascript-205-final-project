@@ -44,7 +44,7 @@ body:
       options:
         - label: Everything is pushed. I cloned my repository into a new folder and it runs with Live Server.
           required: true
-        - label: I used only HTML, CSS and JavaScript. No libraries or frameworks.
+        - label: The app logic is my own JavaScript. No JavaScript libraries or frameworks. Tailwind or Bootstrap from a CDN is fine.
           required: true
         - label: My README has a description, a screenshot, how to run, and the endpoints I use.
           required: true

@@ -81,7 +81,7 @@ DummyJSON only pretends to save. It answers as if it worked, but after a reload 
 | G2 | **Works on a phone**: no sideways scrolling, readable text, buttons big enough to tap. | DevTools device toolbar, 375 px wide | 3 |
 | G3 | **Feedback**: buttons and links react to hover and focus, disabled buttons look disabled, the active page and the active filter are highlighted. | I move through the app with the mouse and the Tab key | 3 |
 
-You do not need to be a designer. A simple, tidy page gets full points. A fancy page that breaks on a phone does not.
+You do not need to be a designer. A simple, tidy page gets full points. A fancy page that breaks on a phone does not. Tailwind or Bootstrap scores the same as CSS that you wrote yourself.
 
 ## H. Git and delivery — 10
 
