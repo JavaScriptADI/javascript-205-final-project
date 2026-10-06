@@ -10,7 +10,7 @@ In homework, every exercise told you what to write. Here you decide. You choose 
 |---|---|
 | **Work** | Alone |
 | **Score** | 100 points, plus up to 20 bonus points |
-| **Deadline** | Announced in class |
+| **Deadline** | 20 October 2026 (Tuesday), 23:59 |
 | **Defense** | About 5 minutes per student, live, after the deadline |
 
 | Document | What is in it |
